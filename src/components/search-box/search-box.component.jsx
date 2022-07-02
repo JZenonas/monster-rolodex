@@ -8,6 +8,4 @@ const SearchBox = ({ className, placeholder, onChangeHandler }) => (
         onChange={onChangeHandler} />
 )
 
-
-
 export default SearchBox;
